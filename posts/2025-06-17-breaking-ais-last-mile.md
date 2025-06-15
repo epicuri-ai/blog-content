@@ -9,7 +9,7 @@ authorName: "Wayne Culbreth"
 metaDescription: "Discover how Epicuri is breaking AI's last mile by creating an open, permissionless registry that lets autonomous agents execute real-world tasks without gatekeepers."
 tags: ["AI", "autonomous agents", "last mile", "open internet", "blockchain"]
 readingTimeMinutes: 8
-featuredImageUrl: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=630&fit=crop&crop=entropy&auto=format"
+featuredImageUrl: "https://raw.githubusercontent.com/epicuri-ai/blog-content/main/images/lastmile.png"
 ---
 
 For a technology so powerful, artificial intelligence remains strangely limited. Today's large-language models (LLMs) can draft documents, debug code, and answer complex questions with striking ease. They confidently write essays, explain molecular biology, and pass bar exams. And yet, when asked to do something as straightforward as ordering printer ink, booking a dental appointment, or updating a restaurant's daily specials online, these same systems stumble helplessly.
