@@ -1,5 +1,5 @@
 ---
-title: "The Economics of Autonomous Commerce"
+title: "The Economics of Autonomous commerce"
 slug: "economics-of-autonomous-commerce"
 excerpt: "As AI agents become more capable, they're reshaping how we think about commerce, transactions, and economic relationships in the digital age."
 featured: false
